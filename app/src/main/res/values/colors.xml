@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="frost_purple">#7657E8</color>
+    <color name="frost_lilac">#C4B5FD</color>
+    <color name="frost_card">#131A29</color>
+    <color name="frost_border">#29334B</color>
+    <color name="frost_text">#A0A9BB</color>
+    <color name="frost_muted">#8792A8</color>
+</resources>

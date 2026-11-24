@@ -1,0 +1,36 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/FrossttV/app/src/main/res/drawable/bg_channel_icon.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/FrossttV/app/src/main/res/drawable/ic_launcher_background.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 334,
+          "line": 11
+        },
+        "start": {
+          "column": 0,
+          "index": 334,
+          "line": 11
+        }
+      }
+    }
+  ],
+  "projectPath": "/storage/emulated/0/CodeOnTheGoProjects/FrossttV",
+  "selectedFile": "/storage/emulated/0/CodeOnTheGoProjects/FrossttV/app/src/main/res/drawable/ic_launcher_background.xml"
+}
